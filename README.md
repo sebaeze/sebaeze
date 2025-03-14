@@ -2,8 +2,8 @@
 Hi / Hola / Olá 👋
 ---
 - I’m Sebastian Ezequiel Andreoletti
-- I'm a Software Engineer, helping to adopt solutions with AI
-- Actually working in IBM
+- Software Engineer, helping to adopt AI solutions
+- Currently working at IBM
 
 ---
 - 📫 You can reach me at sebaeze@gmail.com
