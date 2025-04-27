@@ -31,6 +31,7 @@
   <p style="font-size: 1.1em; color: #555;">
     <strong>Languages:</strong> Typescript, Javascript, Java<br>
     <strong>Cloud Technologies:</strong> AWS, IBM Cloud<br>
-    <strong>AI:</strong> AI Agents, etc.
+    <strong>AI:</strong> AI Agents, Promp engineering, etc.<br>
+    <strong>Automation:</strong> N8N, Langchain
   </p>
 </div>
